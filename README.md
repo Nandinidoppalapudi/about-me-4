@@ -3,7 +3,7 @@
 * [**Source code**](https://github.com/Sravani537520/about-me/)
 * [**GitHub page**](https://github.com/Sravani537520/Music.github.io)
 ## **About**
-This repo gives information about how to develop web pages with recommended tools,resources and also includes a brief note about me.
+This repo gives information about how to develop the web pages with recommended tools,resources and also includes a brief note about me.
 ## **Required Tools**
 Inorder to publish a repo with github,first thing we need is web browser.Chrome has everything you need to make the most of the web,So i prefer google chrome.All pages in gitHub repository is stored in Markdown format.
 * [Chrome](https://www.google.com/chrome/)
