@@ -5,7 +5,7 @@
 ## **About**
 This repo gives information about how to develop web pages with recommended tools,resources and also includes a brief note about me.
 ## **Required Tools**
-Inorder to publish a repo with github,first thing we need is web browser.Chrome has everything you need to make the most of the web,So i prefer google chrome.All pages in gitHub repository is stored in mMarkdown format
+Inorder to publish a repo with github,first thing we need is web browser.Chrome has everything you need to make the most of the web,So i prefer google chrome.All pages in gitHub repository is stored in Markdown format.
 * [Chrome](https://www.google.com/chrome/)
 * [Safari](https://www.apple.com/safari/)
 * [Mozilla](https://www.mozilla.org/en-US/firefox/new/)
@@ -18,4 +18,4 @@ As I am new to the github, following are some of the resources I preferred
 * [hubspot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 ## **Contributers**
 This is Sravani Jaidi, Member of Applied Computer Science For Fall batch 2019 at NorthWest Missouri State University.
-Here Iam attaching One of My favourite Pictures
+Here I am attaching One of My favourite Picture.
